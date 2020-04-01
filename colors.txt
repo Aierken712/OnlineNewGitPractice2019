@@ -1,4 +1,1 @@
 black
-red
-pink
-blue
